@@ -2,6 +2,8 @@
 
 This project demonstrates how to use the Falcon-7B language model from the Hugging Face Hub to generate text based on a given prompt. The code is written in Python and utilizes the Langchain and Langchain Community libraries.
 
+Accompanying tutorial video for this is available at https://youtu.be/FfZGvYmsyJM
+
 ## Prerequisites
 
 Before running the code, make sure you have the following:
